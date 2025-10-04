@@ -19,20 +19,20 @@ The factory pattern is a good choice for spawning these objects because it allow
 ## Blueprints
 
 ### BP_CollectableSpawner
-![](Screenshot 2025-10-03 222250.png)
-![](Screenshot 2025-10-03 222234.png)
+![](<Screenshot 2025-10-03 222250.png>)
+![](<Screenshot 2025-10-03 222234.png>)
 
 ### BP_GameManager
-![](Screenshot 2025-10-03 222529.png)
-![](Screenshot 2025-10-03 222537.png)
-![](Screenshot 2025-10-03 222549.png)
-![](Screenshot 2025-10-03 222609.png)
+![](<Screenshot 2025-10-03 222529.png>)
+![](<Screenshot 2025-10-03 222537.png>)
+![](<Screenshot 2025-10-03 222549.png>)
+![](<Screenshot 2025-10-03 222609.png>)
 
 ### BP_Collectable
-![](Screenshot 2025-10-03 222815.png)
+![](<Screenshot 2025-10-03 222815.png>)
 
 ### BP_CommonOrb / BP_UncommonOrb / BP_RareOrb / BP_EpicOrb / BP_LegendaryOrb (the only thing that changes is the score value)
-![](Screenshot 2025-10-03 222905.png)
+![](<Screenshot 2025-10-03 222905.png>)
 
 ### BP_BombOrb
-![](Screenshot 2025-10-03 223005.png)
+![](<Screenshot 2025-10-03 223005.png>)
